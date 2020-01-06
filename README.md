@@ -63,4 +63,4 @@
 * [网站二](http://ljc2020.pythonanywhere.com/)
 
 **备注：由于网站有部分图、交互控件未被实现到网页中，以下提供原始制图网页以供观看打分**
-* [画图代码html](http://nfunm110.gitee.io/interactive_visualization_final)
+* [pages url](http://nfunm110.gitee.io/interactive_visualization_final)
