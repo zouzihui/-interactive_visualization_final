@@ -58,7 +58,7 @@
 * 山西省空气污染与绿地园林面积对比组合图
 * 山西省空气污染与天然气供给总量对比组合图
 
-# pythonanywhere部署网站
+# pythonanywhere url
 * [网站一](http://chenqiang123.pythonanywhere.com/)
 * [网站二](http://ljc2020.pythonanywhere.com/)
 
